@@ -20,3 +20,6 @@ https://medium.com/@moyo.oyegunle/use-advanced-cluster-management-acm-templates-
 
 * CertManager:  https://www.redhat.com/en/blog/securing-ingress-controllers-on-a-managed-openshift-cluster-using-red-hat-advanced-cluster-management?channel=/en/blog/channel/red-hat-openshift
 
+*
+https://github.com/bry-tam/acm-policy-samples/blob/main/policies
+
