@@ -12,3 +12,6 @@ uses Manifest-Work for propagting changes
 
 * wonderful blog on PolicyTemplates showing Secrests-Management and a way to do User-Management:
 https://medium.com/@moyo.oyegunle/use-advanced-cluster-management-acm-templates-to-manage-users-groups-and-namespaces-e07a280f84c5
+
+
+* Managing OpenShift Virtualization with Gitops:  https://www.redhat.com/en/blog/using-red-hat-advanced-cluster-management-and-openshift-gitops-to-manage-openshift-virtualization?channel=/en/blog/channel/red-hat-openshift
