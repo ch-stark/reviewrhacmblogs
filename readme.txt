@@ -25,4 +25,6 @@ https://github.com/bry-tam/acm-policy-samples/blob/main/policies
 
 1. Show ClusterRole unused:  https://github.com/bry-tam/acm-policy-samples/blob/main/policies/cluster-maintenance/alert-clusterrole-unused.yml
 2. CleanClusterRoleBinding:  https://github.com/bry-tam/acm-policy-samples/blob/main/policies/cluster-maintenance/clean-clusterrolebinding.yml
+3. https://github.com/bry-tam/acm-policy-samples/blob/main/policies/cluster-maintenance/clean-failed-createcontainererror.yml
 
+https://access.redhat.com/solutions/6221251
