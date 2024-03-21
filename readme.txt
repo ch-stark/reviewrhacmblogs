@@ -4,3 +4,5 @@ https://www.redhat.com/en/blog/channel/red-hat-openshift?f[0]=taxonomy_product_t
 
 uses Patch-Operator....
 uses Manifest-Work for propagting changes
+
+* fantastic blog on Network Observabilty:  https://www.redhat.com/en/blog/leveraging-netobserv-metrics-red-hat-advanced-cluster-management-kubernetes?channel=/en/blog/channel/red-hat-openshift
