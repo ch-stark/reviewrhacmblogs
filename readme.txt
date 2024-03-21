@@ -9,3 +9,6 @@ uses Manifest-Work for propagting changes
 
 
 *  blog on the RHACM Pull-Model:  https://www.redhat.com/en/blog/introducing-the-argo-cd-application-pull-controller-for-red-hat-advanced-cluster-management?channel=/en/blog/channel/red-hat-openshift
+
+* wonderful blog on PolicyTemplates showing Secrests-Management and a way to do User-Management:
+https://medium.com/@moyo.oyegunle/use-advanced-cluster-management-acm-templates-to-manage-users-groups-and-namespaces-e07a280f84c5
