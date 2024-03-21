@@ -15,3 +15,5 @@ https://medium.com/@moyo.oyegunle/use-advanced-cluster-management-acm-templates-
 
 
 * Managing OpenShift Virtualization with Gitops:  https://www.redhat.com/en/blog/using-red-hat-advanced-cluster-management-and-openshift-gitops-to-manage-openshift-virtualization?channel=/en/blog/channel/red-hat-openshift
+
+* blog on Placement: https://www.redhat.com/en/blog/extending-the-multicluster-scheduling-capabilities-with-open-cluster-management-placement?channel=/en/blog/channel/red-hat-openshift
