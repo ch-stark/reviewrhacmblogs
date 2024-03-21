@@ -28,3 +28,8 @@ https://github.com/bry-tam/acm-policy-samples/blob/main/policies
 3. https://github.com/bry-tam/acm-policy-samples/blob/main/policies/cluster-maintenance/clean-failed-createcontainererror.yml
 
 https://access.redhat.com/solutions/6221251
+
+
+This is a good workshop:
+
+https://github.com/michaelkotelnikov/rhacm-workshop/tree/master/03.Observability
